@@ -23,6 +23,11 @@ Since he works from home, he can work out 6 times a week while taking a day off 
 
 Great! Now bob knows how much calories he needs to maintain his weight.
 
+To lose weight, reduce 500 calories from the TDEE. To gain weight, add 500 calories to TDEE.
+
+Note: For losing weight, I am practitioner of not drastically reducing your caloric intake too much.
+I would do a 25 minute HIIT cardio in the spin bike that will burn approximately around 250 calories, and reduce 250 calories from my meal template.
+
 The Basics: Nutrition
 =====================
 
