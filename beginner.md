@@ -135,9 +135,77 @@ Squat is probably the exercise that anyone should really focus on. It develops o
 
 Strict Overhead Press (or simply OHP) focuses more on delts, traps, and overall shoulder development. It's the hardest exercise to perform among the three in my opinion since a strict OHP form prohibits the bouncing of your body to cheat lift the bar up.
 
-First, we will focus on form.
+#### Training for Strength vs Hypertrophy
 
-Do a 5x5 (5 sets of 5 reps) routine.
+There are two basic approaches to lifting weights - strength and (muscle) size.
+
+Training for strength will give size over time while training for size will give strength over time. Meaning if you spend 6 months trying to increase your strength, don't expect to have noticeable changes in terms of muscularity.
+
+This is the point where you'll have to choose which type of pokemon you want to be a year or two from now. But as for any craft that requires discipline like art, programming, designing, et.al – the most important thing is your foundation.
+
+For me it requires tremendous amount of practice in order to increase mastery at something. For one to become a great painter, one must stroke the pen with proper form over a long period of time to fully create that mind and pen connection.
+
+Likewise in lifting weights, the best way to become adept at a certain movement is to practice it very often. And that requires repeating the same movement over and over again.
+
+Using this philosophy, I will be providing a hypertrophy-based routine.
+
+Some notes before we begin:
+
+- An exercise with a label like `3x12` means 3 sets of 12 reps. If you're able to perform those 12 reps with perfect form, you should increase the weights in the next scheduled day of exercise. If you can't perform at least 8 reps of that exercise, reduce the weight.
+- Rest between sets should be around 60-90 seconds. Important thing is to pump the blood into the muscle and stretch the fiber.
+
+##### Day 1: Push movements
+
+- Dumbbell shoulder press 3x12
+- Incline Dumbbell press 3x12
+- Barbell bench press 3x12
+- Close-grip bench press 3x12
+- Skull crusher using the ez-bar 3x12
+- Tricep cable push down 3x12
+
+##### Day 2: Pull movements
+
+- Lat pull downs (wide-grip) 3x12
+- Close grip lat pull downs 3x12
+- Tbar rows or cable rows 3x12
+- One arm dumbbell rows 3x12
+- Barbell rows 3x12
+- Overhand grip barbell rows 3x12
+- Deadlift - 5x5
+- Barbell curls 3x10
+- Preacher curls 3x10
+- Hammer curls 3x10
+
+##### Day 3: Leg movements
+
+- Squats conventional 3x8
+- Leg extensions 3x12
+- Leg curls 3x12
+- Stiff leg deadlift 3x10
+- Calf raises 3x20
+- Decline crunches 3x10
+
+#### Sample Training Schedule
+
+Regular
+
+- Mon - Push
+- Tue - REST
+- Wed - Pull
+- Thu - REST
+- Fri - Legs
+- Sat - REST
+- Sun - REST
+
+Advanced
+
+- Mon - Push
+- Tue - Pull
+- Wed - Legs
+- Thu - Push
+- Fri - Pull
+- Sat - Legs
+- Sun - REST
 
 
-.. to be continued...
+... to be continued ...
