@@ -156,6 +156,7 @@ Some notes before we begin:
 
 ##### Day 1: Push movements
 
+- Overhead Press (OHP) 3x12
 - Dumbbell shoulder press 3x12
 - Incline Dumbbell press 3x12
 - Barbell bench press 3x12
