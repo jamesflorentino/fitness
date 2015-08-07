@@ -84,7 +84,7 @@ Day 2: Hypertrophy
 
 - Smith Machine incline 45deg 3x20
 - Smith Machine incline 30deg 3x20
--c Smith Machine flat 3x20
+- Smith Machine flat 3x20
 - Smith Machine decline 3x20
 - Cable cross over 3x12
 - pec dec 3x20
