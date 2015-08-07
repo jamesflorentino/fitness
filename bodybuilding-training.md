@@ -29,10 +29,10 @@ The most efficient way to reach your goal, in my experience, is to periodize you
 
 An example of a periodize training would be:
 
-Day 1 - Strength-based routine (high intensity)
-Day 2 - Hypertrophy-based routine (high volume)
-Day 3 - Power-based routine (explosive movements)
-DAy 1 - Hypertrophy-based routine (high volume)
+- Day 1 - Strength-based routine (high intensity)
+- Day 2 - Hypertrophy-based routine (high volume)
+- Day 3 - Power-based routine (explosive movements)
+- Day 1 - Hypertrophy-based routine (high volume)
 
 This way, you're letting your body recover and at the same time having constant progress per week. These are called personal records.
 
