@@ -38,6 +38,36 @@ This way, you're letting your body recover and at the same time having constant 
 
 Personal records aren't just exclusive to 1 rep max but in all rep ranges including reps of 20.
 
+Warm ups
+========
+
+The goals of warm-ups are basically three things:
+
+1. Add blood flow to the joints.
+2. Kickstart your nervous system.
+3. Increase your body's overall temperature.
+
+An example of this would be doing air squats before a barbell squat exercise.
+This ensures that before adding any heavy load on the body, your joints, nervous system, and muscles are stimulated thus preventing injury.
+
+Here are some basic examples:
+
+1. Leg day - Air Squats and hamstring stretches.
+2. Chest day - push ups or light dumbbell press. Go for 15-20 reps.
+3. Back - pull ups or light lats pull down 15-20 reps.
+
+##### Mobility exercises
+
+Mobility exercises aim to increase flexibility on the muscles which in turn would allow overall joint health, and constant muscle growth.
+
+Examples would be:
+
+1. Foam Rolling
+2. Lacrosse Ball
+3. Band stretches
+
+Youtube Kelly Starrett's videos for more information.
+
 Example Chest training exercise
 ===============================
 
@@ -54,7 +84,7 @@ Day 2: Hypertrophy
 
 - Smith Machine incline 45deg 3x20
 - Smith Machine incline 30deg 3x20
-- Smith Machine flat 3x20
+-c Smith Machine flat 3x20
 - Smith Machine decline 3x20
 - Cable cross over 3x12
 - pec dec 3x20
